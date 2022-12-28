@@ -14,7 +14,7 @@ The following tokens are proposed to allow additional freedom to mods. This prop
    Example:
    * If `[PANTS:ITEM_PANTS_BRAIES:UNCOMMON]` is selected and `[SPLICE_TOKEN:2:1:COMMON]` is used, the resulting token would be `[PANTS:ITEM_PANTS_BRAIES:COMMON]`.
 
-1. A token `[REMOVE_TOKEN]`
+1. A token `[CUT_TOKEN]`
    Removes the current token. The token selection is *cleared*.
    Example:
-   * 
+   * Using `[SELECT_TOKEN:PERMITTED_JOB:MINER]` then `[CUT_TOKEN]` would prevent mining. This is a bad idea.
