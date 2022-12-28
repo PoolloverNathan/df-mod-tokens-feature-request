@@ -1,4 +1,4 @@
-Example base file: v50.03 `entity_default.txt`  
+Example base file: v50.03 [`entity_default.txt`](/entity_default.txt)  
 Assumed header for examples: `[OBJECT:ENTITY] [SELECT_ENTITY:MOUNTAIN]`  
 The following tokens are proposed to allow additional freedom to mods. This proposal adds tokens that modify existing tokens.
 
